@@ -1,2 +1,2 @@
 # Neural-Network
-To shoe some projects using neurons
+To show some projects using neurons
